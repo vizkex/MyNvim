@@ -7,7 +7,7 @@ i done some edit on the files because html lsp was not working for some reason a
 
 ![Desktop Screenshot 2023 05 08 - 15 44 59 12](https://user-images.githubusercontent.com/117045051/236830273-30403b0a-abb9-41be-950d-97df40ae2bc7.png)
 
-SOME neovim shortcuts 
+# SOME neovim shortcuts 
 
 * E in normal mode go for the end of the word
 * B in normal mode go for the start of the word
