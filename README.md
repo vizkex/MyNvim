@@ -9,11 +9,11 @@ i done some edit on the files because html lsp was not working for some reason a
 
 SOME neovim shortcuts 
 
-E in normal mode go for the end of the word
-B in normal mode go for the start of the word
-in vsuil mode select multi line is going to edit all in the same time  
-L in normal mode moves right and H moves left and K moves up and J moves down 
-ctrl-e in normal mode move one line down 
-ctrl-y in normal mode move one line up
-in normal mode <4>j gose down 4 lines 
-in normal mode <4>k gose up 4 lines 
+* E in normal mode go for the end of the word
+* B in normal mode go for the start of the word
+* in vsuil mode select multi line is going to edit all in the same time  
+* L in normal mode moves right and H moves left and K moves up and J moves down 
+* ctrl-e in normal mode move one line down 
+* ctrl-y in normal mode move one line up
+* in normal mode <4>j gose down 4 lines 
+* in normal mode <4>k gose up 4 lines 
