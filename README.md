@@ -1,0 +1,2 @@
+# MyNvim
+Neovim setup :)
